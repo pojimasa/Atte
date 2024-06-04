@@ -1,5 +1,8 @@
-#Atte（勤怠管理アプリ）
-#環境構築
+# Atte（勤怠管理アプリ）
+## 作成した目的
+## アプリケーションURL
+## 機能一覧
+# 環境構築
  Dockerビルド
 1.git clone git@github.com:coachtech-material/laravel-docker-template.git
 2.DockerDesktopの立ち上げ
@@ -23,11 +26,13 @@ php artisan migrate
 6.シーディングの実行
 php artisan db:seed
 
-#使用技術(実行環境)
+## テーブル設計
+
+## 使用技術(実行環境)
 PHP 8.3.4
 Laravel Framework 8.83.27
 mysql 8.0.26
-ER図
+## ER図
 /Users/kawanosora/coachtech/laravel/test-laravel/index.drawio.png
 
 URL
