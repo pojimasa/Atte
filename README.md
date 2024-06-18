@@ -70,15 +70,15 @@ mysql 8.0.26
 3.cp .env.example .env(環境変数を変更)
 
   DB_CONNECTION=mysql
-  
+
   DB_HOST=mysql
-  
+
   DB_PORT=3306
-  
+
   DB_DATABASE=laravel_db
-  
+
   DB_USERNAME=laravel_user
-  
+
   DB_PASSWORD=laravel_pass
 
 4.アプリケーションキーの作成
