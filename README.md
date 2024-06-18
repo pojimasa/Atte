@@ -20,7 +20,7 @@ phpMyAdmin: http://localhost:8080/
 ## 機能一覧
 会員登録、ログインページではlaravelの認証機能を利用
 
-ログアウトはヘッダーにあるログアウトボタンから、『　本当にログアウトしますか？　　はい・いいえ　　』　の画面に推移
+ログアウトはヘッダーにあるログアウトボタンから、『本当にログアウトしますか？　　はい・いいえ』　の画面に推移
 
 『はい』を押すと、ログインページに切り替わる
 
@@ -53,7 +53,7 @@ mysql 8.0.26
 ## ER図
 
 # 環境構築
-　　　　Dockerビルド
+　　Dockerビルド
     
 1.git clone git@github.com:coachtech-material/laravel-docker-template.git
 
@@ -61,18 +61,24 @@ mysql 8.0.26
 
 3.docker-compose up -d --build
 
-　　　　Laravel環境構築
+　　Laravel環境構築
     
 1.docker-compose exec php bash(PHPコンテナ内にログイン)
 
 2.composer install (composer.jsonに記載されたパッケージのリストをインストール)
 
 3.cp .env.example .env(環境変数を変更)
+
   DB_CONNECTION=mysql
+  
   DB_HOST=mysql
+  
   DB_PORT=3306
+  
   DB_DATABASE=laravel_db
+  
   DB_USERNAME=laravel_user
+  
   DB_PASSWORD=laravel_pass
 
 4.アプリケーションキーの作成
