@@ -10,7 +10,8 @@
 ## アプリケーションURL
 phpMyAdmin: http://localhost:8080/
 開発環境： http://localhost/
-まず初めに、http://localhost/register　から、会員登録画面に推移していただきたいです。
+まず初めに: http://localhost/register
+から、会員登録画面に推移していただきたいです。
 
 ## 機能一覧
 会員登録、ログインページではlaravelの認証機能を利用
