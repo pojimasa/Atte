@@ -49,8 +49,7 @@ Laravel Framework 8.83.27
 mysql 8.0.26
 
 ## テーブル設計
-![Uploading スクリーンショット 2024-06-20 20.27.42.png…]()
-
+<img width="1449" alt="スクリーンショット 2024-06-20 20 27 42" src="https://github.com/pojimasa/Atte/assets/162285883/5ef6e6eb-4e8c-46bf-b66e-dec0052b72cc">
 
 ## ER図
 <img width="379" alt="スクリーンショット 2024-06-20 20 05 56" src="https://github.com/pojimasa/Atte/assets/162285883/0c2f5885-e05b-4ca7-8b22-89db92e24ec3">
