@@ -1,6 +1,7 @@
 # Atte（勤怠管理アプリ）
 ある会社の勤怠管理を記録するアプリです。
-<img width="1470" alt="スクリーンショット 2024-06-19 0 54 00" src="https://github.com/pojimasa/Atte/assets/162285883/58c3552e-7290-42f0-a07b-b8a71f7b3629">
+<img width="1470" alt="スクリーンショット 2024-06-20 20 27 00" src="https://github.com/pojimasa/Atte/assets/162285883/32605bf4-8e8f-477a-af28-9c56a86ecdf4">
+
 
 ## 作成した目的
 社員の勤怠情報を入力してもらうことで、それぞれの社員がいつどれだけの時間、勤務・休憩をしたのかを管理しやすくするため。
@@ -48,7 +49,8 @@ Laravel Framework 8.83.27
 mysql 8.0.26
 
 ## テーブル設計
-<img width="1470" alt="スクリーンショット 2024-06-19 1 30 02" src="https://github.com/pojimasa/Atte/assets/162285883/d1bdf1e3-e798-40e3-9d78-53ef53e6f5b6">
+![Uploading スクリーンショット 2024-06-20 20.27.42.png…]()
+
 
 ## ER図
 <img width="379" alt="スクリーンショット 2024-06-20 20 05 56" src="https://github.com/pojimasa/Atte/assets/162285883/0c2f5885-e05b-4ca7-8b22-89db92e24ec3">
