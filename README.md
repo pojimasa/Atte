@@ -51,6 +51,7 @@ mysql 8.0.26
 <img width="1470" alt="スクリーンショット 2024-06-19 1 30 02" src="https://github.com/pojimasa/Atte/assets/162285883/d1bdf1e3-e798-40e3-9d78-53ef53e6f5b6">
 
 ## ER図
+<img width="379" alt="スクリーンショット 2024-06-20 20 05 56" src="https://github.com/pojimasa/Atte/assets/162285883/0c2f5885-e05b-4ca7-8b22-89db92e24ec3">
 
 # 環境構築
 　　Dockerビルド
