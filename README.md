@@ -15,7 +15,7 @@ phpMyAdmin: http://localhost:8081/
 
 開発環境： http://localhost:8080/
 
-まず初めに: http://localhost:8080/register
+まず初めに: http://localhost:8080/stamp
 から、会員登録画面に推移していただきたいです。
 
 ## 機能一覧
