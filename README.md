@@ -11,7 +11,7 @@
 アプリが全て勤怠情報を管理してくれるため、負担を減らすことができる。（紙での勤怠管理と比較）
 
 ## アプリケーションURL
-phpMyAdmin: http://localhost:8080/
+phpMyAdmin: http://localhost:8081/
 
 開発環境： http://localhost/
 
