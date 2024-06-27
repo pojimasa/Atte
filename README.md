@@ -31,6 +31,8 @@ phpMyAdmin: http://localhost:8081/
 
 ・勤務開始は、１日１回しかできない
 
+・縁が黄色く記されているボタンのみ、押すことができる（打刻ページ）
+
 ・休憩開始・休憩終了は、１日で何度も休憩が可能
 
 ・日付別勤怠情報取得
@@ -71,12 +73,12 @@ mysql 8.0.26
 
 3.cp .env.example .env(環境変数を変更)
 
-  DB_CONNECTION=mysql
-  DB_HOST=mysql
-  DB_PORT=3306
-  DB_DATABASE=laravel_db
-  DB_USERNAME=laravel_user
-  DB_PASSWORD=laravel_pass
+  DB_CONNECTION=mysql/
+  DB_HOST=mysql/
+  DB_PORT=3306/
+  DB_DATABASE=laravel_db/
+  DB_USERNAME=laravel_user/
+  DB_PASSWORD=laravel_pass/
 
 4.アプリケーションキーの作成
 
