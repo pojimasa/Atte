@@ -1,0 +1,59 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.stamp {
+    color: #645454;
+}
+
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.button-form {
+    margin: 0;
+}
+
+.btn {
+    width: 100%;
+    padding: 20px;
+    font-size: 2.0rem;
+    border: 1px solid #645454;
+    background-color: #eae6e6;
+    color: #645454;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #a19898;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    .button-grid {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+    }
+
+    .btn {
+        font-size: 1.2rem;
+    }
+}
+
+.active-button {
+    border: 3px solid #fff700;
+    box-shadow: 0 0 10px rgba(255, 204, 0, 0.7);
+}
